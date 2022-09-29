@@ -1,2 +1,2 @@
-# external_repo_conversion
-Repository created for testing purposes (CONVERSION REPO)
+# empty_repo
+Repository created for testing purposes (EMPTY REPO)
